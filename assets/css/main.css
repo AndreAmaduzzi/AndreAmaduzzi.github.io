@@ -1777,6 +1777,7 @@ button,
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  gap: 5em;
   margin: 0 0 2em -6em;
   width: calc(100% + 6em); }
   .posts article {
@@ -1790,7 +1791,7 @@ button,
     flex-shrink: 1;
     margin: 0 0 6em 6em;
     position: relative;
-    width: calc(33.33333% - 6em); }
+    width: calc(38% - 6em); }
     .posts article:before {
       background: rgba(210, 215, 217, 0.75);
       content: '';
